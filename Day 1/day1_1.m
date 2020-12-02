@@ -1,5 +1,5 @@
 
-M=readmatrix('C:\Users\mkgar\Downloads\input.txt');
+M=readmatrix('input.txt');
 M=sort(M);
 M=M.';
 for aux = M
